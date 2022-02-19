@@ -49,7 +49,6 @@ body{
 .nav-link{
   display: inline;
   margin: 5px;
-  font-weight: 100;
   cursor: pointer;
 }
 
@@ -221,7 +220,7 @@ body{
   flex-wrap: wrap;
 }
 
-/* 680 break-point */
+/* Break Points */
 @media screen and (max-width: 710px){
   .footer-bar{
     display: flex;
@@ -230,6 +229,19 @@ body{
     font-size: 14px;
     color: #70757a;
     flex-wrap: wrap;
+  }
+
+  .nav{
+    text-align: right;
+    font-size: 16px;
+    padding: 0;
+    height: 48px;
+    padding-top: 5px;
+    min-width: 320px;
+  }
+
+  .left{
+    margin: 15px 0;
   }
 }
 
@@ -244,7 +256,7 @@ body{
 
   .nav{
     text-align: right;
-    font-size: 14px;
+    font-size: 16px;
     padding: 0;
     height: 48px;
     padding-top: 5px;
@@ -264,7 +276,6 @@ body{
   .nav-link{
     display: inline;
     margin: 5px 0;
-    font-weight: 100;
     cursor: pointer;
   }
 
@@ -279,7 +290,7 @@ body{
   /* Main Body */
 
   .google-icon{
-    height: 82px;
+    height: 60px;
   }
 
   .search-bar{
@@ -322,7 +333,7 @@ body{
   }
 
   .left{
-    min-height: 62px;
-    margin-bottom: 10px;
+    height: 57px;
+    margin: 15px 0;
   }
 }

@@ -1,2 +1,2 @@
 # google-homepage-clone
- This is a clone of the google homepage.
+ This is a responsive clone of the google homepage.

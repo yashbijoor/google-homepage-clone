@@ -1,10 +1,13 @@
 # google-homepage-clone
  This is a responsive clone of the google homepage.
  
- Technology used: html and css
+ **Technology used:** html and css
  
- Netlify Badge:
+ **Netlify Badge: **
  [![Netlify Status](https://api.netlify.com/api/v1/badges/dcef66c4-f463-424d-8928-8d56b59ac5ed/deploy-status)](https://app.netlify.com/sites/homepage-google-clone/deploys)
+ 
+ 
+ **Website url:** https://homepage-google-clone.netlify.app/
  
  
  **Desktop View**
